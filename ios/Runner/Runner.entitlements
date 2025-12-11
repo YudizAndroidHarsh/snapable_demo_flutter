@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<!-- Hotspot Configuration capability is not available for personal/free Apple Developer accounts -->
+	<!-- Only paid Apple Developer Program accounts ($99/year) support this capability -->
+	<!-- The app will fall back to manual WiFi connection via Settings -->
+</dict>
+</plist>
+
